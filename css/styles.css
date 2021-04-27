@@ -306,6 +306,24 @@ h6 {
   grid-column: 2 / span 2;
 }
 
+#article .meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #eee;
+  padding: 0.5rem;
+}
+
+#article .meta .category {
+  margin-top: 0.4rem;
+}
+
+#article article.card p,
+#about article.card p {
+  text-align: justify;
+  text-indent: 35px;
+}
+
 /* Footer */
 #main-footer {
   background: var(--dark-color);
