@@ -28,7 +28,7 @@
 
 ## Demo
 
-[AllNews Website](https://google.com)
+[AllNews Website](https://allnews-website-njca.netlify.app/)
 
 ## Installation
 
