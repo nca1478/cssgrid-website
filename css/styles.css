@@ -334,8 +334,12 @@ h6 {
   width: 150px;
 }
 
-#main-footer a {
+#main-footer .list a {
   color: #fff;
+}
+
+#main-footer a.copyright {
+  color: #f88500;
 }
 
 #main-footer .footer-container {
