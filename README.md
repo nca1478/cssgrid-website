@@ -1,39 +1,39 @@
-# AllNews Website
+# AllNews (Sitio Web)
 
-`AllNews Website` is a website to show sports news and current world events.
+`AllNews` es un sitio web para mostrar noticias deportivas y eventos mundiales actuales.
 
-## Features
+## Características
 
-- Three page website (Home, About and Article).
-- Sections divided by blocks.
-- Header with main menu with options to access the sections of the site.
-- Links to the social networks.
-- Email Newsletter.
+- Sitio web de 3 paginas (Inicio, Acerca de and Artículo).
+- Secciones divididas por bloques.
+- Encabezado con menú de opciones para acceder a las secciones del sitio.
+- Links a las redes sociales.
+- Boletín Electrónico.
 
-## General Information
+## Información General
 
-- This site provides up-to-date information about sports and other topics of world interest.
-- The purpose of this project is to practice the web technologies shown below.
+- Este sitio brinda información actualizada sobre deportes y otros temas de interés mundial.
+- El propósito de este proyecto es aplicar las tecnologías web que se muestran a continuación.
 
-## Tech Stack
+## Tecnologías (Tech Stack)
 
 - HTML5.
-- CSS3 (CSS Grid and Media Queries).
-- Responsive Design (screens for all devices).
+- CSS3 (CSS Grid y Media Queries).
+- Responsive Design.
 
-## Development tools and other Technologies
+## Herramientas de Desarrollo y otras Tecnologías
 
 - [Google Fonts](https://fonts.google.com/)
 - [Vscode](https://code.visualstudio.com/)
 
 ## Demo
 
-[AllNews Website](https://allnews-website-njca.netlify.app/)
+[AllNews](https://allnews-website-njca.netlify.app/)
 
-## Installation
+## Instalación
 
-> No installation required.
+> No requiere instalación.
 
-## Input or main file
+## Archivo Principal o de entrada
 
 > /index.html
